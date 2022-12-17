@@ -1,0 +1,8 @@
+Url para teste: localhost:8765/payroll-api/api/payments/1
+Método: GET
+Json: 
+
+{
+    "description": "Pagamento dez/2022",
+    "workedHours": 200.0
+}
